@@ -1,0 +1,25 @@
+{
+    "jobs" : [
+        {
+            "type" : "cleaning",
+            "salary" : 5000,
+            "id" : 1
+        },
+        {
+            "type" : "cleaning",
+            "salary" : 5000,
+            "id" : 2
+        },
+        {
+            "type" : "cleaning",
+            "salary" : 5000,
+            "id" : 3
+        },
+        {
+            "type" : "cleaning",
+            "salary" : 5000,
+            "id" : 4
+        }
+    
+    ]
+}
